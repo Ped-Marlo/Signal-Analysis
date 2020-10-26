@@ -1,0 +1,5 @@
+pyside2-uic -x mainWindow.ui -o mainWindow.py
+
+https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+
+https://raphaelvallat.com/bandpower.html
