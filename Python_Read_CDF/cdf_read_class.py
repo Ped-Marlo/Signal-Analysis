@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 23 16:17:44 2019
+Created on Tue Apr 23 16:17:44 2020
 
-@author: juan.torresescolano
+@author: pedro.marlo
 """
 
 import cdflib
